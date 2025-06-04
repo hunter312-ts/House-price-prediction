@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+category_encoders
+sentence-transformers
+matplotlib
+seaborn
+shap 
+optuna
+fastapi
+uvicorn
+evidently
